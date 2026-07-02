@@ -6,7 +6,7 @@
             <author>Sir Arthur Conan Doyle</author>
          </titleStmt>
          <publicationStmt>
-            <p>Unpublished</p>
+            <p>Published</p>
          </publicationStmt>
          <sourceDesc>
             <p>Born digital</p>
@@ -66,10 +66,8 @@
                <lb facs="#facs_1_r_2_tl_12" n="N012"/>and all the firemen smelled the burned flesh from inside it. She
                <lb facs="#facs_1_r_2_tl_13" n="N013"/>knew nothing of the papers or of Mr. Oldacre's private affairs.</p>
             <p facs="#facs_1_r_3">
-               <lb facs="#facs_1_r_3_tl_1" n="N001"/>So, my dear Walson, there's my report of a failure.
-               <lb facs="#facs_1_l_1" n="N002"/>and yet — and yet —" he clenched his <hi style="text-decoration: line-through;"><unclear>heavy</unclear></hi>
-               <lb facs="#facs_1_l" n="N003"/>thin
-               <lb facs="#facs_1_l_2" n="N004"/>hands in a
+               <lb facs="#facs_1_r_3_tl_1" n="N001"/>So, my dear Watson, there's my report of a failure.
+               <lb facs="#facs_1_l_1" n="N002"/>and yet — and yet —" he clenched his <del><hi style="text-decoration: line-through;"><unclear>heavy</unclear></hi></del> thin hands in a
                <lb facs="#facs_1_r_3_tl_3" n="N005"/>paroxysm of conviction— "I <hi style="text-decoration: underline;">know</hi> it's all wrong. I feel it in
                <lb facs="#facs_1_r_3_tl_4" n="N006"/>my bones. There is something that has not come out and that
                <lb facs="#facs_1_r_3_tl_5" n="N007"/>housekeeper knows it. There was a sort of sulky defiance in her
