@@ -1,6 +1,8 @@
 body {
-  background-image: url("repeating-paper-texture.png");
-  background-repeat: repeat;
+  background-image: url("repeating-vintage-paper-background.jpg");
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center;
 
 }
 .starter-template {
