@@ -1,5 +1,6 @@
 body {
-  background-color: rgb(154, 144, 133);
+  background-image: url("repeating-paper-texture.png");
+  background-repeat: repeat;
 
 }
 .starter-template {
