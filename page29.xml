@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">The Adventures of the Norwood Builder</title>
+            <author>Sir Arthur Conan Doyle</author>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5321" lry="7115" xml:id="facs_1">
+         <graphic url="064_30v.jpeg" width="5321px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=RGOTUKOCSOABTDPYHZVFNSRA" width="5321px" height="7115px"/>
+         <zone points="4602,279 4897,279 4897,558 4602,558" rendition="TextRegion" xml:id="facs_1_r" subtype="page-number">
+            <zone points="4592,274 4842,274 4842,566 4592,566" rendition="Line" xml:id="facs_1_l_3"/>
+         </zone>
+         <zone points="223,1124 5152,1124 5152,5054 223,5054" rendition="TextRegion" xml:id="facs_1_r_2" subtype="paragraph">
+            <zone points="213,1125 4659,1125 4659,1466 213,1466" rendition="Line" xml:id="facs_1_r_2_tl_1"/>
+            <zone points="243,1435 5079,1435 5079,1794 243,1794" rendition="Line" xml:id="facs_1_r_2_tl_2"/>
+            <zone points="237,1691 5085,1691 5085,2086 237,2086" rendition="Line" xml:id="facs_1_r_2_tl_3"/>
+            <zone points="213,2013 4659,2013 4659,2366 213,2366" rendition="Line" xml:id="facs_1_r_2_tl_4"/>
+            <zone points="182,2293 4830,2293 4830,2713 182,2713" rendition="Line" xml:id="facs_1_r_2_tl_5"/>
+            <zone points="195,2597 4963,2597 4963,2968 195,2968" rendition="Line" xml:id="facs_1_r_2_tl_6"/>
+            <zone points="201,2926 4921,2926 4921,3272 201,3272" rendition="Line" xml:id="facs_1_r_2_tl_7"/>
+            <zone points="195,3205 4969,3205 4969,3601 195,3601" rendition="Line" xml:id="facs_1_r_2_tl_8"/>
+            <zone points="213,3522 4921,3522 4921,3862 213,3862" rendition="Line" xml:id="facs_1_r_2_tl_9"/>
+            <zone points="243,3820 5030,3820 5030,4148 243,4148" rendition="Line" xml:id="facs_1_r_2_tl_10"/>
+            <zone points="243,4118 5121,4118 5121,4440 243,4440" rendition="Line" xml:id="facs_1_r_2_tl_11"/>
+            <zone points="225,4404 5091,4404 5091,4775 225,4775" rendition="Line" xml:id="facs_1_r_2_tl_12"/>
+            <zone points="213,4702 5012,4702 5012,5061 213,5061" rendition="Line" xml:id="facs_1_r_2_tl_13"/>
+         </zone>
+         <zone points="223,5054 5152,5054 5152,6851 223,6851" rendition="TextRegion" xml:id="facs_1_r_3" subtype="paragraph">
+            <zone points="1131,5030 4945,5030 4945,5365 1131,5365" rendition="Line" xml:id="facs_1_r_3_tl_1"/>
+            <zone points="249,5292 3358,5292 3358,5718 249,5718" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="3467,5267 3741,5267 3741,5596 3467,5596" rendition="Line" xml:id="facs_1_l"/>
+            <zone points="3729,5310 4708,5310 4708,5590 3729,5590" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="255,5584 4933,5584 4933,5955 255,5955" rendition="Line" xml:id="facs_1_r_3_tl_3"/>
+            <zone points="243,5924 5042,5924 5042,6301 243,6301" rendition="Line" xml:id="facs_1_r_3_tl_4"/>
+            <zone points="243,6222 5030,6222 5030,6569 243,6569" rendition="Line" xml:id="facs_1_r_3_tl_5"/>
+            <zone points="249,6490 4878,6490 4878,6891 249,6891" rendition="Line" xml:id="facs_1_r_3_tl_6"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/><fw type="page-number" facs="#facs_1_r" place="top">
+               <lb facs="#facs_1_l_3" n="N001"/>29</fw>
+            <p facs="#facs_1_r_2">
+               <lb facs="#facs_1_r_2_tl_1" n="N001"/>ten. Her room was at the other end of the house and she had
+               <lb facs="#facs_1_r_2_tl_2" n="N002"/>could hear nothing of what passed. Mr. McFarlane had left his
+               <lb facs="#facs_1_r_2_tl_3" n="N003"/>hat and to the best of her belief his stick, in the hall. She had been
+               <lb facs="#facs_1_r_2_tl_4" n="N004"/>awakened by the alarm of fire. Her poor dear master had
+               <lb facs="#facs_1_r_2_tl_5" n="N005"/>certainly been murdered. Had he any enemies? Well, every
+               <lb facs="#facs_1_r_2_tl_6" n="N006"/>man had enemies but Mr. Oldacre kept himself very much to
+               <lb facs="#facs_1_r_2_tl_7" n="N007"/>himself and only met people in the way of business. She had
+               <lb facs="#facs_1_r_2_tl_8" n="N008"/>seen the buttons and was sure that they belonged to the clothes
+               <lb facs="#facs_1_r_2_tl_9" n="N009"/>which he had worn last night. The woodpile was very dry for it
+               <lb facs="#facs_1_r_2_tl_10" n="N010"/>had not rained for a month. It burned like tinder and by the
+               <lb facs="#facs_1_r_2_tl_11" n="N011"/>time she reached the spot nothing could be seen but flames. She
+               <lb facs="#facs_1_r_2_tl_12" n="N012"/>and all the firemen smelled the burned flesh from inside it. She
+               <lb facs="#facs_1_r_2_tl_13" n="N013"/>knew nothing of the papers or of Mr. Oldacre's private affairs.</p>
+            <p facs="#facs_1_r_3">
+               <lb facs="#facs_1_r_3_tl_1" n="N001"/>So, my dear Walson, there's my report of a failure.
+               <lb facs="#facs_1_l_1" n="N002"/>and yet — and yet —" he clenched his <hi style="text-decoration: line-through;"><unclear>heavy</unclear></hi>
+               <lb facs="#facs_1_l" n="N003"/>thin
+               <lb facs="#facs_1_l_2" n="N004"/>hands in a
+               <lb facs="#facs_1_r_3_tl_3" n="N005"/>paroxysm of conviction— "I <hi style="text-decoration: underline;">know</hi> it's all wrong. I feel it in
+               <lb facs="#facs_1_r_3_tl_4" n="N006"/>my bones. There is something that has not come out and that
+               <lb facs="#facs_1_r_3_tl_5" n="N007"/>housekeeper knows it. There was a sort of sulky defiance in her
+               <lb facs="#facs_1_r_3_tl_6" n="N008"/>eyes which only goes with guilty knowledge. However there's</p></div>
+      </body>
+   </text>
+</TEI>
