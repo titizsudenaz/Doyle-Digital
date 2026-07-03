@@ -3,11 +3,30 @@ body {
   background-size: cover;
   background-attachment: fixed;
   background-position: center;
+  font-family: 'Courier New', Courier, monospace;
+  color:rgb(96, 42, 55)
 
 }
 .starter-template {
   padding: 40px 15px;
   text-align: center;
+}
+
+table, th, td {
+  border: 1px solid rgb(96, 42, 55);
+}
+
+nav {
+  background-color: rgb(96, 42, 55);
+}
+
+.navbar-expand-lg, .navbar-light, .bg-light {
+  background-color: rgb(96, 42, 55);
+}
+
+class
+  {
+    color: rgb(96, 42, 55);
 }
 
 img {
@@ -29,10 +48,19 @@ p {
 }
 
 .add {
-  color: rgb(96, 42, 55);
+  color: greenyellow;
 }
 
 .del {
   text-decoration: line-through;
+  text-decoration-color: red;
 }
 
+.hi {
+  text-decoration: underline;
+  text-decoration-color: blue;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: bold;
+}
